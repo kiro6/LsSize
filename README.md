@@ -17,3 +17,8 @@ File: Text File.txt (4.0K)
 File: vars.php (4.0K)
 Total: /home/test/Desktop/tests (120K) 
 ```
+
+## Dependencies (already installed in any linux distro)
+#### ls
+#### du 
+#### awk 
